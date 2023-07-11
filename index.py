@@ -9,5 +9,6 @@ pyth = open("findme.txt")
 pyth - open("findme.txt", "rt")
 
 # Reading File (If located in same location)
+# (If opening in a different location then specify the file path within the double quotes "" )
 pyth = open("findme.txt", "r")
 print(pyth.read())
