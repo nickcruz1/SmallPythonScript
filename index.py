@@ -12,3 +12,7 @@ pyth - open("findme.txt", "rt")
 # (If opening in a different location then specify the file path within the double quotes "" )
 pyth = open("findme.txt", "r")
 print(pyth.read())
+
+# Reading File (How to read a specific number of characters.. in this case 8 characters)
+pyth = open("findme.txt", "r")
+print(f.read(8))
