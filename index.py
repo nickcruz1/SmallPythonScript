@@ -16,3 +16,5 @@ print(pyth.read())
 # Reading File (How to read a specific number of characters.. in this case 8 characters)
 pyth = open("findme.txt", "r")
 print(f.read(8))
+
+# Creating a for loop with 4 string values 
