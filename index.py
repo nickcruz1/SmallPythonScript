@@ -20,3 +20,4 @@ print(f.read(8))
 # Creating a for loop with 4 string values 
 theList = ['n', 'i', 'c','k']
 for list in theList:
+   print(theList)
