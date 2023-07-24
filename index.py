@@ -21,3 +21,6 @@ print(f.read(8))
 theList = ['n', 'i', 'c','k']
 for list in theList:
    print(theList)
+
+# Input Validation With Python
+cyberArray = ['OSCP', 'CEH', 'CYSA']
