@@ -24,3 +24,5 @@ for list in theList:
 
 # Input Validation With Python
 cyberArray = ['OSCP', 'CEH', 'CYSA']
+
+cyberCert = str(input("Enter your certification"))
