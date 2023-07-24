@@ -26,3 +26,5 @@ for list in theList:
 cyberArray = ['OSCP', 'CEH', 'CYSA']
 
 cyberCert = str(input("Enter your certification"))
+
+if cyberCert == cyberArray[0]:
