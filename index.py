@@ -32,7 +32,11 @@ if cyberCert == cyberArray[0]:
 else:
   print("I don't know that one")
 
+# Included strings and numbers 
 theContainer = ['1', 2, '3']
 
+# Created a for loop showing what would happen with 2 strings (the beginning and the end) and then a number in between. 
 for x in theContainer:
   print x * 5
+
+
