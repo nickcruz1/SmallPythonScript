@@ -33,3 +33,6 @@ else:
   print("I don't know that one")
 
 theContainer = ['1', 2, '3']
+
+for x in theContainer:
+  print x * 5
