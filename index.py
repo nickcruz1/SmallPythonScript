@@ -44,3 +44,6 @@ numContainer = [-5, -8, 10]
 unknownVar = 2
 
 def calculate():
+  print(numContainer[0] + numContainer[1])
+  print(numContainer[1] + numContainer[2])
+  print(numContainer[1] - numContainer[2])
