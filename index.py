@@ -41,3 +41,4 @@ for x in theContainer:
 
 
 numContainer = [-5, -8, 10]
+unknownVar = 2
