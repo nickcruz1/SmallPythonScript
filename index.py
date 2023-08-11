@@ -40,3 +40,4 @@ for x in theContainer:
   print x * 5
 
 
+numContainer = [-5, -8, 10]
