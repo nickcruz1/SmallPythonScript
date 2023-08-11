@@ -47,3 +47,5 @@ def calculate():
   print(numContainer[0] + numContainer[1])
   print(numContainer[1] + numContainer[2])
   print(numContainer[1] - numContainer[2])
+
+print(calculate())
