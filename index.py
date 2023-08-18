@@ -23,7 +23,7 @@ for list in theList:
    print(theList)
 
 # Input Validation With Python
-cyberArray = ['OSCP', 'CEH', 'CYSA']
+cyberArray = ['OSCP', 'CEH', 'CYSA', 'PenTest+]
 
 cyberCert = str(input("Enter your certification"))
 
