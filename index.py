@@ -49,3 +49,7 @@ def calculate():
   print(numContainer[1] - numContainer[2])
 
 print(calculate())
+
+# Test Set
+testSet = {"First", "Second", "Third"}
+
