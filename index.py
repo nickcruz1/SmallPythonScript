@@ -54,3 +54,4 @@ print(calculate())
 testSet = {"First", "Second", "Third"}
 print(testSet[0])
 print(testSet[1])
+print(testSet[2])
