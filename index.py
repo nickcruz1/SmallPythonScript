@@ -52,4 +52,4 @@ print(calculate())
 
 # Test Set
 testSet = {"First", "Second", "Third"}
-
+print(testSet[0])
