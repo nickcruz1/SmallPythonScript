@@ -39,6 +39,8 @@ theContainer = ['1', 2, '3']
 for x in theContainer:
   print x * 5
 
+  john = "John" 
+
 
 numContainer = [-5, -8, 10]
 unknownVar = 2
