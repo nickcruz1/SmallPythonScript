@@ -40,6 +40,8 @@ for x in theContainer:
   print x * 5
 
   john = "John" 
+  print(john)
+  print("hello" + john)
 
 
 numContainer = [-5, -8, 10]
