@@ -6,7 +6,7 @@ print("Hi, This is a small Python Script")
 # Opening a file 
 pyth = open("findme.txt")
 # alternative way to write the above code:
-pyth - open("findme.txt", "rt")
+pyth = open("findme.txt", "rt")
 
 # Reading File (If located in same location)
 # (If opening in a different location then specify the file path within the double quotes "" )
