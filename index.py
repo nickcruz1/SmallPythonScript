@@ -20,7 +20,11 @@ print(f.read(8))
 # Creating a for loop with 4 string values 
 theList = ['n', 'i', 'c','k']
 for list in theList:
-   print(theList)
+   print(list)
+  
+newList = ['l', 'i', 's', 't']
+for mylist in newList
+  print(mylist)
 
 # Input Validation With Python
 cyberArray = ['OSCP', 'CEH', 'CYSA', 'PenTest+]
