@@ -37,7 +37,7 @@ else:
   print("I don't know that one")
 
 # Included strings and numbers 
-theContainer = ['1', 2, '3']
+theContainer = ['1', 2, '3', 'a']
 
 # Created a for loop showing what would happen with 2 strings (the beginning and the end) and then a number in between. 
 for x in theContainer:
